@@ -1,0 +1,57 @@
+
+
+
+.logo{
+    padding-top: 1px;
+
+}
+.p{
+    color: black;
+}
+header{
+        display: flex;
+        flex-direction: row;
+}
+
+
+header ol{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
+li{
+    padding-left: 5em;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.marca{
+    text-align: right;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    letter-spacing: 2px;
+}
+.seccion{
+    background: url(01.jpeg);
+    background-size: 100%;
+    height: 800px;
+    
+}
+.imagenfc{
+    padding-top: 15em;
+    width: 33%;
+}
+h2,h3{
+    color: white;
+}
+.imagenes{
+    display: flex;
+  
+}
+.articulo{
+   max-width: 25%;
+   
+}
+

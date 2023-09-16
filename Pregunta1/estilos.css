@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+ 
+
+body{
+    background-color: #dddddd;
+}
+.texto:before{
+    content:\2713\0020 ;
+    }
+.cuadro1 img{
+   padding-left: 25em;
+   margin-bottom: 7px;
+}
+p,.texto,.boton{
+    font-family: 'Lato', sans-serif;
+    
+}
+p,.texto,.boton{
+    font-weight:bold;
+}
+.boton{
+   
+    text-transform: uppercase;
+}
+.Falabella{
+    font-size: 12px;
+}
+
+.cuadro2{
+    border: 1px solid whitesmoke;
+    width: 50%;
+    background-color: white;
+    
+    margin-left:25em;
+    width: 31.1%;
+
+
+    
+}
+
+.descuento{
+   
+    border: 1px solid red;
+    border-radius: 25px;
+    color: white;
+    text-align:center;
+    margin-left: 10em;
+    background-color: red;
+    margin-right: 10em;
+    margin-top: -2em;
+   
+}
+.boton{
+    background-color: #ADD500;
+    border:1px solid whitesmoke ;
+    border-radius: 25px;
+    padding: 15px;
+   
+    margin-left: 10em;
+}
